@@ -1,4 +1,4 @@
 # test
 
 
-Cecie est un repo de test
+Ceci est un repo de test
